@@ -1,4 +1,5 @@
-# Space X  Falcon 9 First Stage Landing Prediction - Data Science Capstone Project
+# Space X  Falcon 9 First Stage Landing Prediction
+JonathanMClark
 2023-01-07
 
 Data Science Course Capstone Project offered through Coursera
