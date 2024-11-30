@@ -3,7 +3,7 @@
 ## Data Science Capstone Project Report
 - Version 1.0.0 | Released 2023-01-07 | Jonathan M Clark | Final Version
 - Version 1.0.0 | Released 2024-11-30 | Jonathan M Clark | Presentation Update Only - Address Format and Typographical Issues
-- 
+
 > [!NOTE]
 > The presentation slide deck is saved as ```JonathanMClark-Data-Science-Capstone.pdf```
 > The original presentation slide deck is saved as ```JonathanMClark-Data-Science-Capstone-Original.pdf```
