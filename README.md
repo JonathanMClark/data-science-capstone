@@ -6,7 +6,7 @@
 
 > [!NOTE]
 > The presentation slide deck is saved as ```JonathanMClark-Data-Science-Capstone.pdf```
-> The original presentation slide deck is saved as ```JonathanMClark-Data-Science-Capstone-Original.pdf```
+> <br>The original presentation slide deck is saved as ```JonathanMClark-Data-Science-Capstone-Original.pdf```
 
 <br><br>
 ## --- Summary ---
